@@ -1,6 +1,21 @@
 # Independent Learning in Constrained Markov Potential Games
 
-This repository provides the code for simulations of our independent learning algorithm `iProxCMPG`. We consider two constrained multi-player environments, both of which are inspired by unconstrained variants presented in [Narasimha et al. (2022)](https://ieeexplore.ieee.org/document/9992762):
+This repository provides the code for simulations of our independent learning algorithm `iProxCMPG` presented in the paper
+
+> Philip Jordan, Anas Barakat and Niao He. "Independent Learning in Constrained Markov Potential Games." International Conference on Artificial Intelligence and Statistics. PMLR, 2024.
+
+To cite our work, please use the following BibTeX entry:
+```
+@InProceedings{jordan2024independent,
+  title={Independent Learning in Constrained Markov Potential Games},
+  author={Jordan, Philip and Barakat, Anas and He, Niao},
+  booktitle={Proceedings of The 27th International Conference on Artificial Intelligence and Statistics},
+  publisher={PMLR},
+  year={2024}
+}
+```
+
+In the simulations section of our paper, we consider two constrained multi-player environments, both of which are inspired by unconstrained variants presented in [Narasimha et al. (2022)](https://ieeexplore.ieee.org/document/9992762):
  - a demand-response marketplace for energy grids, and
  - a pollution tax model.
 
